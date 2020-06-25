@@ -45,6 +45,13 @@ Coding Guidelines
 * C code should follow the DPDK coding standards.
 * Python code should follow PEP8.
 
+Bug report
+----------
+
+How to issue a bug is described in "Bug report" chapter under the
+official document:
+https://doc.dpdk.org/spp/
+
 Maintainer
 ----------
 

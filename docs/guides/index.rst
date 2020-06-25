@@ -15,6 +15,7 @@ SPP documentation
    commands/index
    tools/index
    api_ref/index
+   bug_report
 
 This documentation is the latest tagged version, but some of the latest
 developing features might be not included.
